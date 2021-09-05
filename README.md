@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @SteffySenson
+- 👀 I try to get my hands on whatever that piques my interest
+- 🌱 I’m currently learning python
+- 📫 How to reach me ...
+
+<!---
+SteffySenson/SteffySenson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
