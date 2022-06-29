@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SteffySenson
-- 👀 I try to get my hands on whatever that piques my interest
+- 👀 Curious kind
 - 🌱 I’m currently learning python
 - 📫 How to reach me ...
 
