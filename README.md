@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SteffySenson
 - 👀 Curious kind
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning Data Analytics using python
 - 📫 How to reach me ...
 
 <!---
