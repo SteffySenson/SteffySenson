@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @SteffySenson
 - 👀 Curious kind
 - 🌱 I’m currently learning Data Analytics using python
-- 📫 How to reach me ...
+
+[![@steffysenson's Holopin board](https://holopin.me/steffysenson)](https://holopin.io/@steffysenson)
 
 <!---
 SteffySenson/SteffySenson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
